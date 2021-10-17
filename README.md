@@ -13,9 +13,9 @@ Cuando la consigna pida ingresar algo hacerlo mediante un prompt, y cuando pida 
  
 </ul>
 
-    <h4> Heladería</h4>
-    <ul>
-<li>Crear un programa que pida al usuario ingresar, por separado, tres gustos de helado, y luego muestre un mensaje que diga, por ejemplo, "Aquí tiene su helado de chocolate, dulce de leche y menta granizada".</li></ul>
+<h4> Heladería</h4>
+
+Crear un programa que pida al usuario ingresar, por separado, tres gustos de helado, y luego muestre un mensaje que diga, por ejemplo, "Aquí tiene su helado de chocolate, dulce de leche y menta granizada".
 <h4>Datos personales</h4>
 
 Crear un programa que pida al usuario ingresar, por separado, nombre, apellido, edad, nacionalidad, documento, y muestre luego un mensaje que diga: "Nuevo usuario agregado al sistema:" y liste todos los datos juntos.
