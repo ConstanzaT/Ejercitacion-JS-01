@@ -8,10 +8,10 @@ Cuando la consigna pida ingresar algo hacerlo mediante un prompt, y cuando pida 
 
 <h4>Saludo</h4>
 
-<ul>
-<li>Crear un programa que pida al usuario ingresar un nombre y apellido por separado, y luego muestre un mensaje que diga, "Hola {nombre} {apellido}, bienvenida a Ada".</li>
+
+Crear un programa que pida al usuario ingresar un nombre y apellido por separado, y luego muestre un mensaje que diga, "Hola {nombre} {apellido}, bienvenida a Ada".
  
-</ul>
+
 
 <h4> Heladería</h4>
 
