@@ -6,26 +6,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <script>
-        //Años perro: Crear un programa que pida ingresar una edad y devuelva el equivalente de esas edad en años perro.
+        //Años perro: Crear un programa que pida ingresar una edad y 
+        //devuelva el equivalente de esas edad en años perro.
 
-        //Primeros 2 años, 10 años humanos para perros medianos
-        //Para los años siguientes de la vida del perro, cada año tiene que ser multiplicado por 5 años promedio, dependiendo de la raza.
-
-
-
-        let edadHumano = prompt('Su edad: ');
-        edadHumano=parseInt(edadHumano);
+        
 
 
-        let edadperro2 = 10;
+        let edadHumano = parseInt(prompt('Su edad: '));
 
-        let edadperro5 = edadHumano * 5;
+        let edadPerro = edadHumano / 7;
+        
+        document.write('Tu edad es: '+edadHumano + '. Tendrías ' + edadPerro + ' años perro.');
 
-
-        if(edadHumano <= 2){
-            document.write('Tu edad es: '+edadHumano + '. Tendrías ' + edadperro + ' años perro.');
-
-        }
+    
         
 
 
